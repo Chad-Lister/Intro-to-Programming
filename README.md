@@ -12,3 +12,6 @@ I may add more detail later.
 
 * To become more advanced in modern programming languages and understand how they interact with one another.
 * To be employed as a Programmer/Analyst or perhaps as a freelance Designer/Programmer.
+
+
+**THIS FOLDER WAS FROM THE END OF VERSION CONTROL**
